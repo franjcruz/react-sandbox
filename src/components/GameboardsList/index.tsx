@@ -1,1 +1,1 @@
-export { GameboardsListComponent } from './GameboardsList'
+export { GameboardsList } from './GameboardsList'
